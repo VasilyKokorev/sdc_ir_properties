@@ -4,7 +4,7 @@
 - All flux densities are given in units of ``mJy`` (AB zeropoint = 16.4).
 - Missing data/parameter are indicated with ``-99``.
 
-## Columns.
+## Columns
 
 
 |                   *Column*     | *Unit* |                                                                                       *Description* |
