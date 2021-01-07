@@ -24,7 +24,7 @@
 |                          ``eLir_draine`` | Lsol |   Uncertainty on the luminosity given by the DL07 template                                                 |
 |                          ``MD`` | Msol |   Dust mass as predicted by the best-fit DL07 template |
 |                          ``eMD`` | Msol |   Uncertainty on the dust mass                                              |
-|                          ``deltaGDR`` |  |   Gas-to-dust ratio                                              |
+|                          ``deltaGDR`` | - |   Gas-to-dust ratio                                              |
 |                          ``MG`` | Msol |   Gas mass computed from deltaGDR and MD                                              |
 |                          ``eMG`` | Msol |   Uncertainty on the gas mass                                             |
 |                          ``Mstar`` | Msol |   Stellar mass, equal to the one in the parent catalogue                                             |
