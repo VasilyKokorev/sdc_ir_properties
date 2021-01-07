@@ -1,4 +1,4 @@
-## Column Descriptions
+## Data Description
 
 ## Notes
 - All flux densities are given in units of ``mJy`` (AB zeropoint = 16.4).
