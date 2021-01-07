@@ -7,8 +7,11 @@
 ## Columns.
 
 
-|                   *Column*     |                                                                                        *Description* |
-|     :--------------------:     |                                                         :------------------------------------------- |
-|                                |                                                                                                      |
-|                     ``ID`` |                                                        |
-|                       ``z`` |                                                                                                  ... 
+|                   *Column*     | *Unit* |                                                                                       *Description* |
+|     :--------------------:     | :--------------------:    |                                                       :------------------------------------------- |
+|                                |  |                                                                                                     |
+|                         ``ID`` | |ID of the object from the parent catalogue                                             |
+|                          ``RA`` | | The Right Ascension coordinate as given in the parent catalogue                                      |
+|                          ``DEC`` |  |                                                                                                ... |
+|                          ``z`` |   |                                                                                               ... |
+|                          ``ztype`` |  |                                                                                                ... |
