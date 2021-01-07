@@ -15,7 +15,7 @@
 |                          ``DEC`` | deg |  The declination, in equatorial coordinate epoch J2000                                             |
 |                          ``Area`` | bool |   Same as **goodArea** flag in the parent catalogues. Denotes region with reliable photometry.    |
 |                          ``z`` |   |  Redshift used for fitting                                                                          |
-|                          ``ztype`` |  |   Redshift type flag. Spectroscopic=1, photometric=0                                               |
+|                          ``ztype`` | bool  |   Redshift type flag. Spectroscopic=1, photometric=0                                               |
 |                          ``LIR_total`` | Lsol  |  Total FIR luminosity, obtained as the sum between AGN and DL07 components                |
 |                          ``eLIR_total`` | Lsol |   Uncertainty on the total FIR luminosity                                                 |
 |                          ``Lagn`` | Lsol  |  AGN luminosity                |
