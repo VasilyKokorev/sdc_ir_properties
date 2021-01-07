@@ -10,11 +10,11 @@
 |                   *Column*     | *Unit* |                                                                                       *Description* |
 |     :--------------------:     | :--------------------:    |                                                       :------------------------------------------- |
 |                                |  |                                                                                                     |
-|                         ``ID`` | |ID of the object from the parent catalogue                                             |
+|                         ``ID`` | -|ID of the object from the parent catalogue                                             |
 |                          ``RA`` | deg | The Right Ascension coordinate as given in the parent catalogue                                      |
 |                          ``DEC`` | deg |  The declination, in equatorial coordinate epoch J2000                                             |
 |                          ``Area`` | bool |   Same as **goodArea** flag in the parent catalogues. Denotes region with reliable photometry.    |
-|                          ``z`` |   |  Redshift used for fitting                                                                          |
+|                          ``z`` | -  |  Redshift used for fitting                                                                          |
 |                          ``ztype`` | bool  |   Redshift type flag. Spectroscopic=1, photometric=0                                               |
 |                          ``LIR_total`` | Lsol  |  Total FIR luminosity, obtained as the sum between AGN and DL07 components                |
 |                          ``eLIR_total`` | Lsol |   Uncertainty on the total FIR luminosity                                                 |
@@ -29,6 +29,6 @@
 |                          ``eMG`` | Msol |   Uncertainty on the gas mass                                             |
 |                          ``Mstar`` | Msol |   Stellar mass, equal to the one in the parent catalogue                                             |
 |                          ``lastdet`` | micron  |   Last band that has a S/N>3 detection.  Given in rest frame                                               |
-|                          ``chi2`` |  |   Goodness of fit per degree of freedom.                                               |
-|                          ``f_agn`` |  |   AGN fraction                                               |
-|                          ``efagn`` |  |   Uncertainty on the AGN fraction                                               |
+|                          ``chi2`` |-  |   Goodness of fit per degree of freedom.                                               |
+|                          ``f_agn`` |-  |   AGN fraction                                               |
+|                          ``efagn`` |-  |   Uncertainty on the AGN fraction                                               |
