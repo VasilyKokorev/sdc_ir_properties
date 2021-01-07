@@ -28,7 +28,7 @@
 |                          ``MG`` | Msol |   Gas mass computed from deltaGDR and MD                                              |
 |                          ``eMG`` | Msol |   Uncertainty on the gas mass                                             |
 |                          ``Mstar`` | Msol |   Stellar mass, equal to the one in the parent catalogue                                             |
-|                          ``lastdet`` |  |   Last band that has a S/N>3 detection.  Given in rest frame                                               |
+|                          ``lastdet`` | micron  |   Last band that has a S/N>3 detection.  Given in rest frame                                               |
 |                          ``chi2`` |  |   Goodness of fit per degree of freedom.                                               |
 |                          ``f_agn`` |  |   AGN fraction                                               |
 |                          ``efagn`` |  |   Uncertainty on the AGN fraction                                               |
