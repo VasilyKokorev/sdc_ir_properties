@@ -32,3 +32,17 @@
 |                          ``chi2`` |-  |   Goodness of fit per degree of freedom.                                               |
 |                          ``f_agn`` |-  |   AGN fraction                                               |
 |                          ``efagn`` |-  |   Uncertainty on the AGN fraction                                               |
+|                          ``fgas`` |-  |   Gas fraction computed as MG/MD                                              |
+|                          ``fgas_FMR`` |-  |   Gas fraction computed assuming that MG=100xMD                                              |
+|                          ``Lir_med`` |Lsol |                                                |
+|                          ``eLir68`` |Lsol |                                                 |
+|                          ``Mdust_med`` |Msol |                                                 |
+|                          ``eMdust68`` |Msol |                                                 |
+|                          ``Umin`` | |                                                 |
+|                          ``qpah`` |index |                                                 |
+|                          ``gamma`` | |                                                 |
+|                          ``U`` |Lsol/Msol |                                                 |
+|                          ``sU`` |Lsol/Msol |                                                 |
+|                          ``deltaMS`` | |                                                 |
+|                          ``e_deltaMS`` | |                                                 |
+|                             **IR PHOTOMETRY**| |     ...                                            |
