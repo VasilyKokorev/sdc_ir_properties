@@ -13,7 +13,7 @@
 |                         ``ID`` | -|ID of the object from the parent catalogue                                             |
 |                          ``RA`` | deg | The Right Ascension coordinate as given in the parent catalogue                                      |
 |                          ``DEC`` | deg |  The declination, in equatorial coordinate epoch J2000                                             |
-|                          ``Area`` | bool |   Same as **goodArea** flag in the parent catalogues. Denotes region with reliable photometry.    |
+|                          ``Area`` | bool |   Same as **goodArea** flag in the parent catalogues. Denotes region with reliable photometry    |
 |                          ``z`` | -  |  Redshift used for fitting                                                                          |
 |                          ``ztype`` | bool  |   Redshift type flag. Spectroscopic=1, photometric=0                                               |
 |                          ``LIR_total`` | Lsol  |  Total FIR luminosity, obtained as the sum between AGN and DL07 components                |
@@ -34,15 +34,15 @@
 |                          ``efagn`` |-  |   Uncertainty on the AGN fraction                                               |
 |                          ``fgas`` |-  |   Gas fraction computed as MG/MD                                              |
 |                          ``fgas_FMR`` |-  |   Gas fraction computed assuming that MG=100xMD                                              |
-|                          ``Lir_med`` |Lsol |                                                |
-|                          ``eLir68`` |Lsol |                                                 |
-|                          ``Mdust_med`` |Msol |                                                 |
-|                          ``eMdust68`` |Msol |                                                 |
-|                          ``Umin`` | |                                                 |
-|                          ``qpah`` |index |                                                 |
-|                          ``gamma`` | |                                                 |
-|                          ``U`` |Lsol/Msol |                                                 |
-|                          ``sU`` |Lsol/Msol |                                                 |
-|                          ``deltaMS`` | |                                                 |
+|                          ``Lir_med`` |Lsol | Total FIR luminosity, computed from the chi2 distribution                                               |
+|                          ``eLir68`` |Lsol |     Uncertainty on the total FIR luminosity, computed as the 68 % confidence interval                    |
+|                          ``Mdust_med`` |Msol |  Dust mass, computed from the chi2 distribution                                              |
+|                          ``eMdust68`` |Msol |   Uncertainty on the dust mass, computed as the 68 % confidence interval                      |
+|                          ``Umin`` | |  Best fit Umin                                               |
+|                          ``qpah`` |index |  Index of the best fit qpah value                                               |
+|                          ``gamma`` | |    Best fit gamma                                             |
+|                          ``U`` |Lsol/Msol |  Average radiation field intensity, computed as LIR_total/(125xMD)                                               |
+|                          ``sU`` |Lsol/Msol |   Uncertainty on the average radiation field intensity                                              |
+|                          ``deltaMS`` | |   SFR/SFR_ms where SFR=LIR_total and SFR_ms is given by (Schreiber+15)[https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..74S/abstract]                                              |
 |                          ``e_deltaMS`` | |                                                 |
 |                             **IR PHOTOMETRY**| |     ...                                            |
