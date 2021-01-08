@@ -44,5 +44,5 @@
 |                          ``U`` |Lsol/Msol |  Average radiation field intensity, computed as LIR_total/(125xMD)                                               |
 |                          ``sU`` |Lsol/Msol |   Uncertainty on the average radiation field intensity                                              |
 |                          ``deltaMS`` | |   SFR/SFR_ms where SFR=LIR_total*10^-10 and SFR_ms is given by [Schreiber+15](https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..74S/abstract)                                             |
-|                          ``e_deltaMS`` | |                                                 |
+|                          ``e_deltaMS`` | |    Uncertainty in deltaMS                                             |
 |                             **IR PHOTOMETRY**| |     ...                                            |
