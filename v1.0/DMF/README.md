@@ -1,10 +1,12 @@
 ## DMFs
-Given for three redshift bins
+
+Both the scattered and non-scattered DMF+uncertainty, for each of redshift bin.
+
 | |
 |     :--------------------:     |
-|0.2<z<0.5|
-|0.5<z<0.8|
-|0.5<z<1.1|
+|[``0.2<z<0.5``](https://github.com/VasilyKokorev/sdc_ir_properties/blob/master/v1.0/DMF/dmf_0.2_0.5.fits)|
+|[``0.5<z<0.8``](https://github.com/VasilyKokorev/sdc_ir_properties/blob/master/v1.0/DMF/dmf_0.5_0.8.fits)|
+|[``0.5<z<1.1``](https://github.com/VasilyKokorev/sdc_ir_properties/blob/master/v1.0/DMF/dmf_0.8_1.1.fits)|
 
 
 ## Columns
