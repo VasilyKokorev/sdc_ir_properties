@@ -1,5 +1,11 @@
-## Columns
+## DMFs
+Given for three redshift bins, 
+0.2<z<0.5
+0.5<z<0.8
+0.5<z<1.1
 
+
+## Columns
 
 |                   *Column*     | *Unit* |                                                                                       *Description* |
 |     :--------------------:     | :--------------------:    |                                                       :------------------------------------------- |
