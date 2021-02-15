@@ -1,6 +1,6 @@
 ## DMFs
 Given for three redshift bins
-| *Column* |
+| |
 |     :--------------------:     |
 |0.2<z<0.5|
 |0.5<z<0.8|
