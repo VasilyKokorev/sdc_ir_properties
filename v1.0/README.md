@@ -46,3 +46,4 @@
 |                          ``deltaMS`` | |   SFR/SFR_ms where SFR=LIR_draine*10^-10 and SFR_ms is given by [Schreiber+15](https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..74S/abstract)                                             |
 |                          ``e_deltaMS`` | |    Uncertainty on deltaMS                                             |
 |                             **IR PHOTOMETRY** | mJy|   IR bands from [Liu+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..172L/abstract) and [Jin+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...56J/abstract)                                          |
+| **EXTRA COLUMNS (experimental)** | | Quantities contained in these columns are not yet well tested, use at your own risk                   |                        
