@@ -1,1 +1,1 @@
-
+*sdc2_070121_final.fits* contains the direct Stardust output for all the processed IRAC 1 -> (sub)mm photometry. The output file that also has Stardust computed optical properties is available on request.
