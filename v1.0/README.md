@@ -46,7 +46,7 @@
 |                          ``deltaMS`` | |   SFR/SFR_ms where SFR=LIR_draine*10^-10 and SFR_ms is given by [Schreiber+15](https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..74S/abstract)                                             |
 |                          ``e_deltaMS`` | |    Uncertainty on deltaMS                                             |
 |                             **IR PHOTOMETRY** | mJy|   IR bands from [Liu+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..172L/abstract) and [Jin+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...56J/abstract)                                          |
-| **Optically derived parameters** | | Quantities contained in these columns are not yet well tested, use at your own risk                   | 
+| **Optically derived parameters** | | Aprat from stellar mass, the quantities contained in these columns are not yet well tested, use at your own risk                   | 
 |``mass``|Msol| Stellar mass computed by Stardust|
 |``e_mass``|Msol| Uncertainty on the stellar mass computed by Stardust|
 |``mass_K``|Msol| Stellar mass computed via the rest-frame K-band luminosity with M/L=0.6|
