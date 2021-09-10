@@ -47,5 +47,9 @@
 |                          ``e_deltaMS`` | |    Uncertainty on deltaMS                                             |
 |                             **IR PHOTOMETRY** | mJy|   IR bands from [Liu+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...853..172L/abstract) and [Jin+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...56J/abstract)                                          |
 | **Opcially derived parameters** | | Quantities contained in these columns are not yet well tested, use at your own risk                   | 
-|mass|Msol| Stellar mass computed by Stardust|
-|e_mass|Msol| Uncertainty on the stellar mass computed by Stardust|
+|''mass''|Msol| Stellar mass computed by Stardust|
+|''e_mass''|Msol| Uncertainty on the stellar mass computed by Stardust|
+|''mass_K''|Msol| Stellar mass computed via the rest-frame K-band luminosity with M/L=0.6|
+|''nfilt''| - | Number of bands used in fitting, this includes upper limits too|
+|''sfr_opt''| Msol/year | Unobscured star-formation rate, derived via optical photometry|
+|''Av''| - | V-band attenuation|
